@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Rubik:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+body {
+    margin: 0;
+}
+
+div {
+    background-color: #7f8180;
+    padding: 20px;
+    border: 15px;
+    margin: 35px;
+}
+
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 12px;
+    font-family: 'Poppins', american;
+    background-color: #e3633c
+}
+
+p {
+    line-height: 1.5:
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: #362e31;
+}
+
+h2 {
+    color: #362e31;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--color-header-footer-bg);
+
+
+}
