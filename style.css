@@ -3,6 +3,11 @@ body {
     max-width: 25rem;
     background-color: olive;
     
+    
+}
+
+section {
+    ;
 }
 
 h1 {
@@ -10,12 +15,13 @@ h1 {
 
 }
 
+h2 {
+    color: blanchedalmond;
+}
+
 p {
     color: blanchedalmond;
 }
 
-link {
-    color: black;
-}
 
 
