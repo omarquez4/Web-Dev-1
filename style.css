@@ -1,12 +1,21 @@
 body {
-    max-width: 25rem;
     margin: 0 auto;
+    max-width: 25rem;
+    background-color: olive;
+    
 }
 
 h1 {
-    color: red;
+    color: blanchedalmond;
+
 }
 
-p{
-    font-family: Arial, Helvetica, sans-serif;
+p {
+    color: blanchedalmond;
 }
+
+link {
+    color: black;
+}
+
+
