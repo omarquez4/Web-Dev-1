@@ -23,23 +23,27 @@ p {
 
 a  {
     color:white;
-    background-color: gray;
     text-align: center;
     text-decoration: none;
     flex: 1; 
     outline: none;
     line-height: 3; 
     
-
-
-    
-    
-
 }
+
+ul {
+    list-style-type: none;   
+} 
 
 a:visited {
     color: bisque;
 
+}
+
+:hover {
+    color: brown;
+    
+    
 }
 
 
