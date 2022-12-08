@@ -2,8 +2,9 @@ body {
     margin: 0 auto;
     max-width: 25rem;
     background-color: olive;
-    
+    font-family: 'Times New Roman', Times, serif;
 }
+
 
 
 h1 {
@@ -17,6 +18,28 @@ h2 {
 
 p {
     color: blanchedalmond;
+    
+}
+
+a  {
+    color:white;
+    background-color: gray;
+    text-align: center;
+    text-decoration: none;
+    flex: 1; 
+    outline: none;
+    line-height: 3; 
+    
+
+
+    
+    
+
+}
+
+a:visited {
+    color: bisque;
+
 }
 
 
