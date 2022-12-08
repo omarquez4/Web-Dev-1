@@ -1,19 +1,22 @@
 body {
     margin: 0 auto;
     max-width: 25rem;
-    background-color: olive;
+    background-color: darkgrey;
     font-family: 'Times New Roman', Times, serif;
 }
 
 
 
-h1 {
-    color: blanchedalmond;
+h1{
+     color: blanchedalmond;
+     background-color: lightgreen;
+} 
 
-}
+
 
 h2 {
     color: blanchedalmond;
+    background-color: lightgreen; 
 }
 
 p {
@@ -27,8 +30,14 @@ a  {
     text-decoration: none;
     flex: 1; 
     outline: none;
-    line-height: 3; 
+    line-height: 2; 
     
+
+    
+}
+
+a:hover {
+    background-color: lightgreen; 
 }
 
 ul {
@@ -40,11 +49,11 @@ a:visited {
 
 }
 
-:hover {
-    color: brown;
+
+
     
     
-}
+
 
 
 
