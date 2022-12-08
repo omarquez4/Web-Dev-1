@@ -1,0 +1,61 @@
+body {
+    margin: 0 auto;
+    max-width: 25rem;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+h1{
+     color: blanchedalmond;
+     background-color: blue;
+
+} 
+
+
+
+h2 {
+    color: blanchedalmond;
+    background-color: lightgreen; 
+}
+
+p {
+    color: white; 
+    font-family: 'Times New Roman', Times, serif;
+     
+}
+
+a  {
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    flex: 1; 
+    outline: none;
+    line-height: 2; 
+    
+
+    
+}
+
+a:hover {
+    background-color: lightgreen; 
+}
+
+ul {
+    list-style-type: none;   
+} 
+
+a:visited {
+    color: bisque;
+
+}
+
+
+
+    
+    
+
+
+
+
