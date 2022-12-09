@@ -3,6 +3,7 @@ body {
     max-width: 25rem;
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 
 
@@ -40,17 +41,35 @@ a  {
 }
 
 a:hover {
-    background-color: lightgreen; 
+    background-color: blue;  
 }
 
-ul {
-    list-style-type: none;   
-} 
-
-a:visited {
+ a:visited {
     color: bisque;
 
 }
+
+div {
+    background-color: #7f8180;
+    padding: 20px;
+    border: 15px;
+    margin: 35px;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: 4rem 0; 
+    
+}
+
+
+
+
+
+
+
+
 
 
 
