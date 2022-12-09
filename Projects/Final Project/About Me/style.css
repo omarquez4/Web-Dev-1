@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+div {
+    background-color: #7f8180;
+    padding: 20px;
+    border: 15px;
+    margin: 35px;
+}
+
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 12px;
+    font-family: 'Poppins', american;
+    background-color: blue; 
+}
+
+p {
+    line-height: 1.5; 
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    max-height: 400px;
+}
