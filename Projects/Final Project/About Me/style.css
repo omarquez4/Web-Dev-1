@@ -35,15 +35,24 @@ img {
     
 }
 
-a {
-    text-decoration: black;
-    color: black;
-
+a  {
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    flex: 1; 
+    outline: none;
+    line-height: 2; 
+    padding-left: 3px; 
     
+
     
 }
 
 a:hover {
-    background-color: blue;  
+    background-color: black;  
 }
+
+ a:visited {
+    color: bisque;
+ }
 
