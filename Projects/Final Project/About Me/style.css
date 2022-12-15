@@ -20,6 +20,8 @@ body {
 
 p {
     line-height: 1.5; 
+
+    
 }
 
    
@@ -27,5 +29,21 @@ img {
     width: 100%;
     display: block;
     margin: 4rem 0; 
+    outline-style: groove;
+    outline-color: #7f8180;
+
     
 }
+
+a {
+    text-decoration: black;
+    color: black;
+
+    
+    
+}
+
+a:hover {
+    background-color: blue;  
+}
+
