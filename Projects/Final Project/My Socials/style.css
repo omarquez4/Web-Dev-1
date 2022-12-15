@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    max-width: 25rem;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+h1 {
+     color: blanchedalmond;
+     background-color: blue;
+} 
+
+p {
+    color: white; 
+    font-family: 'Times New Roman', Times, serif;
+     
+     
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: 4rem 0; 
+    outline-style: groove;
+    outline-color: blue;
+    
+}
