@@ -1,7 +1,8 @@
 body {
     margin: 0 auto;
-    max-width: 25rem;
+    max-width: 600px;
     background-color: black;
+    padding: 12px;
     font-family: 'Times New Roman', Times, serif;
     
 }

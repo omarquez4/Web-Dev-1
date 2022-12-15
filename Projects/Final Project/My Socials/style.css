@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    max-width: 25rem;
+    max-width: 600px;
+    padding: 12px;
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
     
